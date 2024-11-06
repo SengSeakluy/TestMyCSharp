@@ -1,0 +1,15 @@
+/Users/sengseakluy/TestMyCSharp/bin/Debug/net8.0/TestMyCSharp
+/Users/sengseakluy/TestMyCSharp/bin/Debug/net8.0/TestMyCSharp.deps.json
+/Users/sengseakluy/TestMyCSharp/bin/Debug/net8.0/TestMyCSharp.runtimeconfig.json
+/Users/sengseakluy/TestMyCSharp/bin/Debug/net8.0/TestMyCSharp.dll
+/Users/sengseakluy/TestMyCSharp/bin/Debug/net8.0/TestMyCSharp.pdb
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/TestMyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/TestMyCSharp.AssemblyInfoInputs.cache
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/TestMyCSharp.AssemblyInfo.cs
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/TestMyCSharp.csproj.CoreCompileInputs.cache
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/TestMyCSharp.sourcelink.json
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/TestMyCSharp.dll
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/refint/TestMyCSharp.dll
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/TestMyCSharp.pdb
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/TestMyCSharp.genruntimeconfig.cache
+/Users/sengseakluy/TestMyCSharp/obj/Debug/net8.0/ref/TestMyCSharp.dll
